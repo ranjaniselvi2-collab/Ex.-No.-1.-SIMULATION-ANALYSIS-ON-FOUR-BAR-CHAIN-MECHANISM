@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 12/02/2026
 
 ## AIM:
 
@@ -56,7 +56,7 @@
 <img width="1144" height="834" alt="Screenshot 2026-03-11 153754" src="https://github.com/user-attachments/assets/6979ea51-cf50-40ad-a96f-3c0a4c6e9aea" />
 <img width="1002" height="507" alt="Screenshot 2026-03-11 153902" src="https://github.com/user-attachments/assets/4ced903b-2291-48d5-88ec-f2f319c61ff2" />
 
-### Name:Ranjani S
+### Name: RANJANI S
 ### Register Number: 212225230224
 
 ## RESULT:
